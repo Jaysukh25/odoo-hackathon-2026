@@ -1,0 +1,21 @@
+* text=auto eol=lf
+
+*.blade.php diff=html
+
+*.json diff=json indent_size=2
+
+*.js diff=javascript indent_size=2
+
+*.css diff=css indent_size=2
+
+*.md diff=markdown
+
+.env.example diff=env
+
+.env diff=env
+
+package-lock.json diff=json
+
+composer.lock diff=json
+
+*.php diff=php
